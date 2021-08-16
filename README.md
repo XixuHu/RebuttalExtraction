@@ -1,2 +1,1 @@
-# RebuttalExtraction
-Words and Sentences to write a good rebuttal
+We have updated our paper in order to address the reviewers’ feedback.
